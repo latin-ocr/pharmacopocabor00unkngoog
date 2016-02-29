@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopocabor00unkngoog_0283.png"; bbox 0 0 3346 4722; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 329 1368 1306 1547">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 329 1368 1306 1547">
+     <span class='ocr_line' id='line_1_1' title="bbox 329 1368 1306 1547; baseline 0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 329 1368 666 1544; x_wconf 80' lang='lat' dir='ltr'><strong>PARS‘</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 703 1371 1306 1547; x_wconf 87' lang='lat' dir='ltr'><strong>SECUNDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 205 1751 1427 2048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 205 1751 1427 2048">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 1751 1427 1902; baseline 0 -30"><span class='ocrx_word' id='word_1_3' title='bbox 205 1761 705 1884; x_wconf 72' lang='lat' dir='ltr'><strong>MssochMssNTA,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 771 1761 947 1902; x_wconf 77' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 987 1767 1062 1866; x_wconf 71' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1108 1751 1427 1872; x_wconf 80' lang='lat' dir='ltr'>OFFlclle</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 326 1939 1304 2048; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 326 1943 613 2046; x_wconf 69' lang='lat' dir='ltr'>PRAEsTo</span> <span class='ocrx_word' id='word_1_8' title='bbox 651 1945 805 2046; x_wconf 73' lang='lat' dir='ltr'>Essss</span> <span class='ocrx_word' id='word_1_9' title='bbox 851 1945 986 2048; x_wconf 83' lang='lat' dir='ltr'><strong>NON</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1033 1939 1304 2048; x_wconf 71' lang='lat' dir='ltr'><strong>DEBENT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 659 2441 969 2486">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 659 2441 969 2486">
+     <span class='ocr_line' id='line_1_4' title="bbox 659 2441 969 2486; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 659 2441 969 2486; x_wconf 53' lang='lat' dir='ltr'><em>W</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1678 4722">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1678 4722">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1678 4722; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1678 4722; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
